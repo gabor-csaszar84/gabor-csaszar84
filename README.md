@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabor-csaszar84
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning HTML/CSS/Javasript/Angular/Typescript to become a Frontend Developer.
+- 🌱 I’m currently learning HTML/CSS/Bootstrap/Javasript/Angular/Typescript to become a Frontend Developer.
 - 💞️ I’m looking to collaborate on frontend projects.
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
