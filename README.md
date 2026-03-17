@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabor.
 - 👀 I’m interested in learning new things. My current stack is: HTML/CSS/Bootstrap/Javasript/Angular/Typescript and NodeJS.
-- 🌱 I recently graduated as a Frontend Developer.
+- 🌱 I recently graduated as Junior frontend developer.
 - 💞️ I’m looking to collaborate on frontend projects.
 - 📫 How to reach me: here on github--> gabor-csaszar84.
 - 😄 Pronouns: He/Him.
